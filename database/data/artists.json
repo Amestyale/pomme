@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Matthieu Mendès",
+        "songs": [9]
+    },
+    {
+        "id": 2,
+        "name": "Cécile Corbel",
+        "songs": [10]
+    },
+    {
+        "id": 3,
+        "name": "Hein Cooper",
+        "songs": [11]
+    },
+    {
+        "id": 4,
+        "name": "Ben Mazué",
+        "songs": [12]
+    },
+    {
+        "id": 5,
+        "name": "39 Femmes",
+        "songs": [13]
+    },
+    {
+        "id": 6,
+        "name": "TRENTE",
+        "songs": [14]
+    },
+    {
+        "id": 6,
+        "name": "Waxx",
+        "songs": [15]
+    }
+]

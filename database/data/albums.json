@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "slug" : "a-peu-pres",
+        "name" : "A peu près",
+        "release" : "2017-10-06",
+        "color" : "#A49C8C",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu erat ornare dui feugiat pellentesque sit amet laoreet nisi. Integer at mi placerat, interdum dolor tincidunt, placerat felis. Etiam a dolor aliquam dui congue placerat sed a arcu. Proin non lacus id nulla sodales consectetur. Sed pulvinar nibh arcu, tempus consectetur quam elementum ac. Vivamus et dictum urna, volutpat volutpat lorem. Vestibulum id felis turpis."
+    },
+    {
+        "id" : 2,
+        "slug" : "les-failles",
+        "name" : "Les Failles",
+        "release" : "2019-11-01",
+        "color" : "#2A3E7A",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu erat ornare dui feugiat pellentesque sit amet laoreet nisi. Integer at mi placerat, interdum dolor tincidunt, placerat felis. Etiam a dolor aliquam dui congue placerat sed a arcu. Proin non lacus id nulla sodales consectetur. Sed pulvinar nibh arcu, tempus consectetur quam elementum ac. Vivamus et dictum urna, volutpat volutpat lorem. Vestibulum id felis turpis."
+    },
+    {
+        "id" : 3,
+        "slug" : "les-failles-cachees",
+        "name" : "Les Failles cachées",
+        "shortname" : "Failles cachées",
+        "release" : "2020-02-14",
+        "color" : "#CEAD18",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu erat ornare dui feugiat pellentesque sit amet laoreet nisi. Integer at mi placerat, interdum dolor tincidunt, placerat felis. Etiam a dolor aliquam dui congue placerat sed a arcu. Proin non lacus id nulla sodales consectetur. Sed pulvinar nibh arcu, tempus consectetur quam elementum ac. Vivamus et dictum urna, volutpat volutpat lorem. Vestibulum id felis turpis."
+    }
+]
