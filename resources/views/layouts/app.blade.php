@@ -5,7 +5,22 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
-        <title>{{ config('app.name', 'Laravel') }}</title>
+        <meta name="title" content="Pomme - Découverte">
+        <meta name="description" content="Découvrez les musiques de Pomme, une artiste folk à la plume délicate">
+        <meta name="keywords" content="musique,Pomme,chanson,chanson française">
+        <meta name="robots" content="noindex, nofollow">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="language" content="French">
+        <meta name="author" content="Johan Deleon">
+
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="{{ env('APP_URL') }}">
+        <meta property="og:title" content="Pomme">
+        <meta property="og:description" content="Découvrez les musiques de Pomme, une artiste folk à la plume délicate">
+        <meta property="og:image" content="{{ asset('/public/images/albums/cover-1.jpg') }}">
+
+
+        <title>Pomme - Découverte</title>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap">
         <link href='https://fonts.googleapis.com/css?family=Pangolin' rel='stylesheet'>
         
